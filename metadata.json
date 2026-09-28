@@ -1,0 +1,8 @@
+{
+  "name": "SuperPrecios BA - Comparador de Supermercados",
+  "description": "Buscador y comparador inteligente de precios de supermercados de Buenos Aires (Carrefour, Coto, Makro, Disco, Jumbo, El Abastecedor), cálculo con descuentos bancarios (BBVA, Santander, Naranja) y sincronización con Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
